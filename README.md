@@ -1,3 +1,14 @@
+Introducing "Evento" an event management system which helps to create your own event timeline and you can register in events.
+
+To run the project, download the code or you use the git clone command in the git bash at your local system.
+"INSTASLL DEPENDENCIES"
+cd client - for frontend
+   ->npm install
+   ->npm run dev
+cd api - for backend
+   ->npm install
+   ->nodemon start
+
 
 **Features**
 * Schedule a Event.
